@@ -1,4 +1,4 @@
-# EDA-case-study-project-Data-Vizulalization-python-
+
 # Gramener Case Study
 This repository contain zip file in which  contains the jupyter notebook and summary pdf.
 ### Problem Statement
